@@ -18,13 +18,13 @@
 # Screenshots
 
 **Home Page**
-![HomePage](./WireFrames/homepage.png)
+![HomePage](./homepage.png)
 
 **Side Bar**
-![SideBar](./WireFrames/sidebar1.png)
+![SideBar](./sidebar1.png)
 
 **Recipe Detail Card**
-![RecipeDetail](./WireFrames/recipedetail.png)
+![RecipeDetail](./recipedetail.png)
 
 
 # Functionality / Technologies Used
@@ -103,15 +103,19 @@ Example data response:
 # WireFrames
 
 **This is the mockup for the Login page**
+
 ![Login](https://share.balsamiq.com/c/qDMwZNdyR9ikbrMXKCdCXF.png)
 
 **About Page**
+
 ![About](https://share.balsamiq.com/c/fsdAjGJh3VC384G3anbB42.png)
 
 **Home Page**
+
 ![Home](https://share.balsamiq.com/c/jtW4amSFaczCqVqRayb3ow.png)
 
 **Recipe Card**
+
 ![RecipeCard](https://share.balsamiq.com/c/eLvymYmBFMoWfk3V8J21xS.png)
 
 -----
